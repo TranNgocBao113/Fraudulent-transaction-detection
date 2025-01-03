@@ -83,7 +83,7 @@ plt.ylabel("Amount")
 plt.show()
 ```
 Here are the plots:
-![Amount pattern](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/amount%20pattern.png)
+![Amount pattern](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/Images/amount%20pattern.png)
 * From the plots of day 1 and day 2, I've observed the following insights:
   1. Normally, the number of transactions is very low in the early hours of the day (from 12:00 a.m. to 6:00 a.m.) and peaks between 10:00 a.m. and 5:00 p.m.
   2. At the minute level, there are some transactions with extremely high amounts during the early hours and late hours of the day. These transactions are suspected to be fraudulent because they deviate significantly from the usual pattern, with unusually high amounts.
@@ -113,7 +113,7 @@ Here are the metrics after testing model:
 * Accuracy score:  0.9995241955380115
 * P-R curve:
   
-![PR curve](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/pr%20curve.png)
+![PR curve]([https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/pr%20curve.png](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/Images/pr%20curve.png))
 ## 8. LIBRARIES
 - Data analysis: Numpy and Pandas.
 - Visualization: Seaborn, Matplotlib
