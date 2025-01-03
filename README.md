@@ -1,4 +1,5 @@
 # Fraudulent transaction analysis
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TranNgocBao113.Fraudulent-transaction-detection&left_color=green&right_color=red)
 ## 1. OVERVIEW
 This project focuses on analyzing transactional data to identify fraudulent activities. The analysis was conducted as part of my data analytics portfolio to demonstrate my ability to work with real-world datasets, clean and process data, and derive actionable insights.
 
