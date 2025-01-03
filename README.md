@@ -1,5 +1,15 @@
 # Fraudulent transaction analysis
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TranNgocBao113.Fraudulent-transaction-detection&left_color=green&right_color=red)
+![GitHub watchers](https://img.shields.io/github/watchers/TranNgocBao113/Fraudulent-transaction-detection)
+
+![Static Badge](https://img.shields.io/badge/3.12.3%20-%20black?logo=python&logoColor=white&label=Python)
+![Static Badge](https://img.shields.io/badge/2.2.2%20-%20orange?logo=pandas&logoColor=blue&label=Pandas&labelColor=white)
+![Static Badge](https://img.shields.io/badge/1.26.4%20-%20brown?logo=numpy&logoColor=blue&label=Numpy&labelColor=white)
+![Static Badge](https://img.shields.io/badge/0.13.2%20-%20purple?logo=Seaborn&logoColor=blue&label=Seaborn&labelColor=white)
+![Static Badge](https://img.shields.io/badge/3.9.2%20-%20gray?logo=matplotlib&logoColor=yellow&label=Matplotlib&labelColor=white)
+![Static Badge](https://img.shields.io/badge/1.5.1%20-%20blue?logo=scikit-learn&logoColor=blue&label=Scikit-learn&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Notebook%20-%20orange?logo=Jupyter&logoColor=orange&label=Jupyter&labelColor=white)
+
+
 ## 1. OVERVIEW
 This project focuses on analyzing transactional data to identify fraudulent activities. The analysis was conducted as part of my data analytics portfolio to demonstrate my ability to work with real-world datasets, clean and process data, and derive actionable insights.
 
