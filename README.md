@@ -113,7 +113,7 @@ Here are the metrics after testing model:
 * Accuracy score:  0.9995241955380115
 * P-R curve:
   
-![PR curve]([https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/pr%20curve.png](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/Images/pr%20curve.png))
+![PR curve](https://raw.githubusercontent.com/TranNgocBao113/Fraudulent-transaction-detection/refs/heads/main/Images/pr%20curve.png)
 ## 8. LIBRARIES
 - Data analysis: Numpy and Pandas.
 - Visualization: Seaborn, Matplotlib
